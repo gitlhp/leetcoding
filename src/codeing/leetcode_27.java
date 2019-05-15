@@ -10,7 +10,7 @@ package codeing;
 public class leetcode_27 {
     public int removeElement(int[] nums, int val) {
         for (int i=0;i<nums.length;i++){//0,1,2
-
+System.out.println("wwwww");
         }
 return 0;
     }
