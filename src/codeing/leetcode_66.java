@@ -54,7 +54,7 @@ public class leetcode_66 {
 
     public static void main(String[] args){
         leetcode_66 leetcode_66 = new leetcode_66();
-        int[] n ={9,8,7,6,5,4,3,2,1,0};
+        int[] n ={9,8,7,6,5,4,3,2,1333,0};
        //int[] m =  leetcode_66.plusOne(n);
        // for (int i=0;i<m.length;i++){
        //     System.out.println(m[i]);
