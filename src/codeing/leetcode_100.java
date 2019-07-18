@@ -10,7 +10,7 @@ public class leetcode_100 {
         if (p==null&&q==null) {
             return true;
         }
-        else if(p==null||q==null){
+        if(p==null||q==null){
             return false;
         }
         if (p.val!=q.val){
